@@ -155,7 +155,7 @@ p.note { display: none; }
 <a href="20250612_006.JPG" target="_blank"><img src="20250612_006.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250612_007.JPG" target="_blank"><img src="20250612_007.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">かなりの降りでしたが工事は続行<br>下水管の継手部分など大事な箇所には屋根を設置するとのことでした</span></h2>
+<h2><span class="yellow">かなりの降りでしたが工事は続行、穴の上の一部分にテントで屋根付けてるので聞いてみたら<br>下水管の継手部分など大事な箇所には屋根を設置するとのことでした</span></h2>
 <a href="20250612_008.JPG" target="_blank"><img src="20250612_008.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">公園の松葉菊もしっとりと濡れました</span></h2>
