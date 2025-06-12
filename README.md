@@ -197,7 +197,7 @@ p.note { display: none; }
 <a href="20250612_028.JPG" target="_blank"><img src="20250612_028.JPG" alt="サンプル画像" width="900" /></a>
 
 <br><br><br>
-<h2><span class="yellow">雑誌記事を参考にAIチャットボットのWebアプリができました。</span></h2>
+<h2><span class="yellow">雑誌記事を参考にAIチャットボットのWebアプリができました。<br>以下の文字クリックで開いた先、下段の「AIチャットと話す」の窓に簡単な質問を入れてリターンで質問に答えてくれます。</span></h2>
 <h2><span class="yellow"><a href="https://udify.app/chat/wVfyzxupKHTfaONb" target="_blank">この文字クリックでWebアプリに飛びます</a></span></h2>
 
 
