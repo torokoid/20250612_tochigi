@@ -188,14 +188,17 @@ p.note { display: none; }
 <a href="20250612_023.JPG" target="_blank"><img src="20250612_023.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250612_024.JPG" target="_blank"><img src="20250612_024.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">このボトル買うご5Lが無料ですが、なぜか8Lボトルの方が安いですね</span></h2>
+<h2><span class="yellow">このボトル買うと水5Lが無料ですが、なぜか8Lボトルの方が安いですね</span></h2>
 <a href="20250612_025.JPG" target="_blank"><img src="20250612_025.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">庭の薔薇はそろそろ散り始めました</span></h2>
 <a href="20250612_026.JPG" target="_blank"><img src="20250612_026.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250612_027.JPG" target="_blank"><img src="20250612_027.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250612_028.JPG" target="_blank"><img src="20250612_028.JPG" alt="サンプル画像" width="900" /></a>
-    
+
+<br><br><br>
+<h2><span class="yellow">雑誌記事を参考にAIチャットボットのWebアプリができました。</span></h2>
+<h2><span class="yellow"><a href="https://udify.app/chat/wVfyzxupKHTfaONb" target="_blank">この文字クリックでWebアプリに飛びます</a></span></h2>
 
 
 <br><br><br><br><br><br><br><br><br>
