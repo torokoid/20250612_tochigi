@@ -181,7 +181,7 @@ p.note { display: none; }
 <h2><span class="yellow">夜にはお月様が輝き始めました</span></h2>
 <a href="20250612_021.JPG" target="_blank"><img src="20250612_021.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">近所のスーパーでリサイクル処理</span></h2>
+<h2><span class="yellow">12日は近所のスーパーで空き缶などをリサイクル処理</span></h2>
 <a href="20250612_022.JPG" target="_blank"><img src="20250612_022.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">お水も無料でいただきました</span></h2>
