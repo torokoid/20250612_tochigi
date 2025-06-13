@@ -142,7 +142,7 @@ p.note { display: none; }
     
     
     
-<h2><span class="yellow">10日はベルモールのフードコート、HP編集してたら高齢者施設のお散歩メンバーが来たので席を譲ります</span></h2>
+<h2><span class="yellow">10日はベルモールのフードコート<br>HP編集してたら高齢者施設のお散歩メンバーが来たので席を譲ります</span></h2>
 <a href="20250612_001.JPG" target="_blank"><img src="20250612_001.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">翌11日は雨が止んだ隙に犬のお散歩でしたが<br>町内一周するうちにまた降り出して犬も人間もびっしょり</span></h2>
